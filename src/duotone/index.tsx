@@ -5,7 +5,7 @@ type Props = {
   size?: number;
 };
 
-export const ChatRoundDots: React.FC<Props> = ({
+export const ChatRoundDotsDuotone: React.FC<Props> = ({
   color = '#000',
   size = 15,
 }) => {
